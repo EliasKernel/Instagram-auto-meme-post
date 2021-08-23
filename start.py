@@ -72,8 +72,6 @@ def main():
 
         print(f'Done! Starting {cooldown} cooldown')
 
-        print(description_post)
-
         time.sleep(cooldown)
 
 
