@@ -23,8 +23,11 @@ You will need:
 | username  | Username  | Your instagram username  |
 | password  | Password  | Your Instagram password  |
 | subreddits  | ["Memes", "Dankmemes"]  | List of all subreddits  |
-| hashtags  | ["#Hashtag1","#Hashtag2","#Hashtag3"]  | List of all Hashtags  |
-| time  | 3600  | Time between posts (in seconds)  |
+| hashtags  | ["#Hashtag1","#Hashtag2","#Hashtag3","#Hashtag4","#Hashtag5"]  | List of all Hashtags  |
+| time  | 21600  | Time between posts (in seconds)  |
 | hashtag_selection  | 3  |  How many hashtags |
 
+------------
 
+### Disclaimer ⚠️
+I am not responsible for the inappropriate use of this bot.
