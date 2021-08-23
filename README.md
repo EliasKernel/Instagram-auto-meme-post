@@ -27,8 +27,8 @@ You will need:
 | :------------: | :------------: | :------------: |
 | username  | Username  | Your instagram username  |
 | password  | Password  | Your Instagram password  |
-| subreddits  | ["Memes", "Dankmemes"]  | List of all subreddits  |
-| hashtags  | ["#Hashtag1", "#Hashtag2", "#Hashtag3", "#Hashtag4", "#Hashtag5"]  | List of all Hashtags  |
+| subreddits  | ["Memes", "Dankmemes"]  | List of subreddits  |
+| hashtags  | ["#Hashtag1", "#Hashtag2", "#Hashtag3", "#Hashtag4", "#Hashtag5"]  | List of Hashtags  |
 | time  | 21600  | Time between posts (in seconds)  |
 | hashtag_selection  | 3  |  How many hashtags |
 
