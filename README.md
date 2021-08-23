@@ -3,7 +3,11 @@ This script selects a random subreddit from a list, chooses a random image and p
 
 Uses [Meme_Api from D3vd](https://github.com/D3vd/Meme_Api "Meme_Api from D3vd") and [instagrapi from adw0rd](https://github.com/adw0rd/instagrapi "instagrapi from adw0rd")
 
-
+# Index
+- [Installation](#installation)
+- [The config file](#the-config-file)
+- [Usage recommendations](#usage-recommendations)
+- [Disclaimer ](#disclaimer-%EF%B8%8F)
 
 ## Installation
 
