@@ -35,6 +35,7 @@ def main():
     #Check for repeated photo
         if os.path.isfile(f"memes/{image_name}"):
             print("\nRepeated")
+            time.sleep(10)
             continue
         else:
             print("\nNo repeated")
@@ -47,6 +48,9 @@ def main():
             rgb_im = image_png.convert('RGB')
             rgb_im.save(f"memes/{image_name[0:-3]}jpg")
             os.remove(f"memes/{image_name}")
+        elif post_random["url"][-3::] == "gif":
+            print("It's a gif")
+            continue
         else:
             pass
 
